@@ -13,6 +13,8 @@ public static void main(String[] args) {
 				}
 		else{
 			System.out.print("*");
+			System.out.print("@@@@@@");
+
 			}
 		}
 		System.out.println();
